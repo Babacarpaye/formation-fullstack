@@ -84,6 +84,11 @@ button {
     margin-top: 20px;
     padding: 10px 20px;
 }
+.contact {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
 @media (max-width: 600px) {
     header {
         flex-direction: column;
